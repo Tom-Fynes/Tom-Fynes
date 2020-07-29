@@ -36,5 +36,5 @@
 
 
 <p align="Left"> 
-  <img src="https://wakatime.com/share/@TomFynes/d7454bda-1cd5-4e0d-87fe-f26e3f4b5356.svg" />
+  <img src="https://wakatime.com/share/@TomFynes/d7454bda-1cd5-4e0d-87fe-f26e3f4b5356.svg" width="500" height="500" />
 </p>
