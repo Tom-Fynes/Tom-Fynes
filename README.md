@@ -10,6 +10,7 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Fynes&theme=tokyonight&count_private"/>
+</a>
   
 <br>
 <br>
