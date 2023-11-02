@@ -5,7 +5,7 @@
 
 Hi 👋 My name is Tom 
 ====================  
-Senior software engineer 
+Senior Data Engineer 
 ------------------------  
 Experienced Software Engineer. Skilled in Python, SQL, SQL Server Reporting Services (SSRS) and SQL Server Integration Services (SSIS) and more.  
 * 🌍  I'm based in United Kingdom 
