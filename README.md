@@ -1,8 +1,8 @@
-<style>
-  .grid-container {
-  display: grid;
-}
-</style>
+<div style="width: 100%;">
+  <a href="https://github.com/Tom-Fynes/Tom-Fynes/blame/master/banner.svg">
+    <img src="banner.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
 <p align="center"> 
   Visitor count<br>
@@ -51,15 +51,3 @@ Experienced Software Engineer. Skilled in Python, SQL, SQL Server Reporting Serv
   <img src="https://wakatime.com/share/@TomFynes/d7454bda-1cd5-4e0d-87fe-f26e3f4b5356.svg" width="600" height="600" />
 </p>
 
-
-<div class="grid-container">
-  <div class="grid-item">1</div>
-  <div class="grid-item">2</div>
-  <div class="grid-item">3</div>
-  <div class="grid-item">4</div>
-  <div class="grid-item">5</div>
-  <div class="grid-item">6</div>
-  <div class="grid-item">7</div>
-  <div class="grid-item">8</div>
-  <div class="grid-item">9</div>
-</div>
