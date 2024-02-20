@@ -19,7 +19,7 @@ Experienced Software Engineer. Skilled in Python, SQL, SQL Server Reporting Serv
 * ✉️  You can contact me at [tf.dev@icloud.con](mailto:tf.dev@icloud.con) 
 * 🤝  I'm open to collaborating on Data related projects or any interesting Python projects
 
-  ### Skills
+### Skills
 
 <p align="left"> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
