@@ -1,3 +1,9 @@
+<style>
+  .grid-container {
+  display: grid;
+}
+</style>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tom-Fynes/count.svg" />
@@ -23,16 +29,37 @@ Experienced Software Engineer. Skilled in Python, SQL, SQL Server Reporting Serv
 </p> 
 
 ### Socials  <p align="left"> <a href="https://www.github.com/Tom-Fynes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thomas-f-b00607163/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/7031452/tom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_tom_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Tom-Fynes"><img src="https://github-readme-stats.vercel.app/api?username=Tom-Fynes&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tom-Fynes's GitHub stats" /></a>
-<a href="http://www.github.com/Tom-Fynes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tom-Fynes&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/Tom-Fynes"><img src="https://activity-graph.herokuapp.com/graph?username=Tom-Fynes&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/Tom-Fynes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Fynes&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###My GitHub Stats
 
-<p align="Left"> 
-  <img src="https://wakatime.com/share/@TomFynes/d7454bda-1cd5-4e0d-87fe-f26e3f4b5356.svg" width="500" height="500" />
+
+<a href="http://www.github.com/Tom-Fynes">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tom-      Fynes&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tom-Fynes's GitHub stats" />
+</a>
+<a href="http://www.github.com/Tom-Fynes">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tom-Fynes&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+<a href="http://www.github.com/Tom-Fynes">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Tom-Fynes&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
+<a href="https://github.com/Tom-Fynes" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Fynes&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
+
+<p align="center"> 
+  <img src="https://wakatime.com/share/@TomFynes/d7454bda-1cd5-4e0d-87fe-f26e3f4b5356.svg" width="600" height="600" />
 </p>
 
+
+<div class="grid-container">
+  <div class="grid-item">1</div>
+  <div class="grid-item">2</div>
+  <div class="grid-item">3</div>
+  <div class="grid-item">4</div>
+  <div class="grid-item">5</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">7</div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>
+</div>
