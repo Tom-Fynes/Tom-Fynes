@@ -69,11 +69,40 @@ I'm currently working as Senior Data Engineer at EMIS Group with over 8 years ex
   <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/others/html.svg" alt="html" height="50" width="50" />
 </p>
 
-
-### Socials  
-<p align="left"> <a href="https://www.github.com/Tom-Fynes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thomas-f-b00607163/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/7031452/tom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_tom_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-<p align="center"> 
-  <img src="https://wakatime.com/share/@TomFynes/d7454bda-1cd5-4e0d-87fe-f26e3f4b5356.svg" width="600" height="600" />
+<h2 align="center"> 
+  Socials 
+</h2>
+ 
+<p align="center">
+  <a href="https://www.github.com/Tom-Fynes" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.linkedin.com/in/thomas-f-b00607163/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.stackoverflow.com/users/7031452/tom" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.twitter.com/_tom_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
 </p>
+
+<h2 align="center"> 
+  My Stats
+</h2>
+
+<p align="center">
+<a href="https://github.com/Tom-Fynes">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tom-Fynes&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Tom-Fynes">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tom-Fynes&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
+</p>
+
+<p align="center">
+  <img src="https://wakatime.com/share/@TomFynes/d7454bda-1cd5-4e0d-87fe-f26e3f4b5356.svg" width="450" height="400" />
+</p>
+
+
 
