@@ -17,15 +17,57 @@ I'm currently working as Senior Data Engineer at EMIS Group with over 8 years ex
 * 🖥️  See my portfolio at [Portfolio](http://Tom-fynes.GitHub.io) 
 * ✉️  You can contact me at [tf.dev@icloud.con](mailto:tf.dev@icloud.con) 
 * 🤝  I'm open to collaborating on Data related projects or any interesting Python projects
+<br>
+<br>
+<h2 align="center"> 
+  Skills
+</h2>
 
-### Skills
-
-<p align="left"> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code> 
-</p> 
+<h4 align="center">
+  Programging Languages
+</h4>
+<p align="center"> 
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/programming_languages/python.svg" alt="python" height="50" width="50" />
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/programming_languages/c%23.svg" alt="c#" height="50" width="50" />
+</p>
+<h4 align="center">
+  Cloud
+</h4>
+<p align="center"> 
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/cloud/aws.svg" alt="aws" height="50" width="50" />
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/cloud/azure.svg" alt="azure" height="50" width="50" />
+</p>
+<h4 align="center">
+  Databases
+</h4>
+<p align="center"> 
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/databases/postgresql.svg" alt="postgres" height="50" width="50" />
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/databases/mysql.svg" alt="mysql" height="50" width="50" />
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/databases/mongodb.svg" alt="mongodb" height="50" width="50" />
+</p>
+<h4 align="center">
+  Platforms
+</h4>
+<p align="center"> 
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/platforms/docker.svg" alt="docker" height="50" width="50" />
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/cloud/github.svg" alt="github" height="50" width="50" />
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/cloud/terraform.png" alt="terrafrom" height="50" width="50" />
+</p>
+<h4 align="center">
+  Frameworks
+</h4>
+<p align="center"> 
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/frameworks/flask.svg" alt="flask" height="50" width="50" />
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/frameworks/django.svg" alt="django" height="50" width="50" />
+</p>
+<h4 align="center">
+  Other
+</h4>
+<p align="center"> 
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/others/git.svg" alt="git" height="50" width="50" />
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/others/css.svg" alt="css" height="50" width="50" />
+  <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/others/html.svg" alt="html" height="50" width="50" />
+</p>
 
 
 ### Socials  
