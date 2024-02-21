@@ -105,6 +105,7 @@
         display: flex;
         letter-spacing: 0.125vw;
         filter:drop-shadow(4px 7px 5px rgba(126, 23, 142, 0.8));
+        font-style: italic;
         }
         ul li a {
         margin-left: 5px;
