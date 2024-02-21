@@ -102,10 +102,10 @@ I'm currently working as Senior Data Engineer at EMIS Group with over 8 years ex
 
 <p align="center">
 <a href="https://github.com/Tom-Fynes">
-  <img src="https://wakatime.com/share/@TomFynes/d7454bda-1cd5-4e0d-87fe-f26e3f4b5356.svg" width="450" height="400" />
+  <img src="https://wakatime.com/share/@TomFynes/d7454bda-1cd5-4e0d-87fe-f26e3f4b5356.svg" width="350" height="400" />
 </a>
 <a href="https://github.com/Tom-Fynes">
-  <img src="[https://wakatime.com/share/@TomFynes/d7454bda-1cd5-4e0d-87fe-f26e3f4b5356.svg](https://wakatime.com/share/@TomFynes/e70b27e4-8109-41f0-81c8-00bb2f3b9110.svg)" width="450" height="400" />
+  <img src="https://wakatime.com/share/@TomFynes/e70b27e4-8109-41f0-81c8-00bb2f3b9110.svg" width="350" height="400" />
 </a>
 </p>
 
