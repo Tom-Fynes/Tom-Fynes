@@ -11,10 +11,8 @@
 Hi 👋 My name is Tom 
 </h1>
 
+I'm currently working as Senior Data Engineer at EMIS Group with over 8 years experiance, skilled in Python, SQL, Airflow and more.
 
-Senior Data Engineer 
-------------------------  
-Experienced Software Engineer. Skilled in Python, SQL, SQL Server Reporting Services (SSRS) and SQL Server Integration Services (SSIS) and more.  
 * 🌍  I'm based in United Kingdom 
 * 🖥️  See my portfolio at [Portfolio](http://Tom-fynes.GitHub.io) 
 * ✉️  You can contact me at [tf.dev@icloud.con](mailto:tf.dev@icloud.con) 
