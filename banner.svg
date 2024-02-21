@@ -16,7 +16,7 @@
         --color-main: #3f48cc;
         --color-primary: #202569;
         --color-secondary: #33ccff;
-        --color-background: #0d1117;
+        --color-background: #253041;
         --color-link: #33ccff;
         --color-link-active: #202569;
 
@@ -126,24 +126,8 @@
         }
 
         @keyframes intro {
-        0%, 75% { transform: translateX(-100vw); }
-        100% { transform: translateX(0); }
-        }
-
-        @media (prefers-color-scheme: light) {
-        .body {
-        --color-main: #3f48cc;
-        --color-primary: #202569;
-        --color-secondary: #33ccff;
-        --color-background: #0d1117;
-        --color-link: #33ccff;
-        --color-link-active: #202569;
-          }
-        }
-
-        @media (prefers-reduced-motion) {
-        .body {
-        animation: none;
+        0%, 60% { transform: translateY(-100vw); }
+        100% { transform: translateY(0); }
         }
 
         ul li {
