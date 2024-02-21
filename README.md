@@ -7,10 +7,11 @@
     <img src="banner.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
-
-
+<h1 align="center"> 
 Hi 👋 My name is Tom 
-====================  
+</h1>
+
+
 Senior Data Engineer 
 ------------------------  
 Experienced Software Engineer. Skilled in Python, SQL, SQL Server Reporting Services (SSRS) and SQL Server Integration Services (SSIS) and more.  
