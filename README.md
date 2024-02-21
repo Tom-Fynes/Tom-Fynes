@@ -17,6 +17,7 @@ I'm currently working as Senior Data Engineer at EMIS Group with over 8 years ex
 * 🖥️  See my portfolio at [Portfolio](http://Tom-fynes.GitHub.io) 
 * ✉️  You can contact me at [tf.dev@icloud.con](mailto:tf.dev@icloud.con) 
 * 🤝  I'm open to collaborating on Data related projects or any interesting Python projects
+
 <br>
 <br>
 <h2 align="center"> 
