@@ -1,13 +1,12 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Tom-Fynes/count.svg" />
+</p>
 <div style="width: 100%;">
   <a href="https://github.com/Tom-Fynes/Tom-Fynes/blame/master/banner.svg">
     <img src="banner.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Tom-Fynes/count.svg" />
-</p>
 
 
 Hi 👋 My name is Tom 
