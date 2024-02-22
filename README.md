@@ -1,4 +1,4 @@
-<p align="center"> 
+e<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tom-Fynes/count.svg" />
 </p>
@@ -14,7 +14,7 @@ Hi 👋 My name is Tom
 I'm currently working as Senior Data Engineer at EMIS Group with over 8 years experiance, skilled in Python, SQL, Airflow and more.
 
 * 🌍  I'm based in United Kingdom 
-* 🖥️  See my portfolio at [Portfolio](http://Tom-fynes.GitHub.io) 
+* 🖥️  See my portfolio [here](http://Tom-fynes.GitHub.io) 
 * ✉️  You can contact me at [tf.dev@icloud.con](mailto:tf.dev@icloud.con) 
 * 🤝  I'm open to collaborating on Data related projects or any interesting Python projects
 * 🔗  Other places you can find me: &nbsp; [<img img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/soical/linkedin.svg" width="20" height="20">](https://www.linkedin.com/in/thomas-f-b00607163/)&nbsp;
