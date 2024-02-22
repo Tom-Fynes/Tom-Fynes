@@ -17,6 +17,9 @@ I'm currently working as Senior Data Engineer at EMIS Group with over 8 years ex
 * 🖥️  See my portfolio at [Portfolio](http://Tom-fynes.GitHub.io) 
 * ✉️  You can contact me at [tf.dev@icloud.con](mailto:tf.dev@icloud.con) 
 * 🤝  I'm open to collaborating on Data related projects or any interesting Python projects
+* 🔗  Other places you can find me: &nbsp; [<img img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/soical/linkedin.svg" width="20" height="20">](https://www.linkedin.com/in/thomas-f-b00607163/)&nbsp;
+ [<img img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/soical/stackoverflow.svg" width="20" height="20">](https://www.stackoverflow.com/users/7031452/tom)&nbsp;
+[<img img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20">](https://www.twitter.com/_tom_codes)
 
 <br>
 <br>
@@ -68,25 +71,6 @@ I'm currently working as Senior Data Engineer at EMIS Group with over 8 years ex
   <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/others/git.svg" alt="git" height="50" width="50" />
   <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/others/css.svg" alt="css" height="50" width="50" />
   <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/others/html.svg" alt="html" height="50" width="50" />
-</p>
-
-<h2 align="center"> 
-  Socials 
-</h2>
- 
-<p align="center">
-  <a href="https://www.github.com/Tom-Fynes" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/cloud/github.svg" width="32" height="32"/>
-  </a> 
-  <a href="https://www.linkedin.com/in/thomas-f-b00607163/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/soical/linkedin.svg" width="32" height="32"/>
-  </a> 
-  <a href="https://www.stackoverflow.com/users/7031452/tom" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/soical/stackoverflow.svg" width="32" height="32"/>
-  </a> 
-  <a href="https://www.twitter.com/_tom_codes" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
 </p>
 
 <h2 align="center"> 
