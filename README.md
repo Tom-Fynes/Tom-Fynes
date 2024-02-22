@@ -76,15 +76,16 @@ I'm currently working as Senior Data Engineer at EMIS Group with over 8 years ex
  
 <p align="center">
   <a href="https://www.github.com/Tom-Fynes" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/cloud/github.svg" width="50" height="50"/>
+    <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/cloud/github.svg" width="32" height="32"/>
   </a> 
   <a href="https://www.linkedin.com/in/thomas-f-b00607163/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/soical/linkedin.svg" width="32" height="32"/>
   </a> 
   <a href="https://www.stackoverflow.com/users/7031452/tom" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+    <img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/soical/stackoverflow.svg" width="32" height="32"/>
   </a> 
-  <a href="https://www.twitter.com/_tom_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  <a href="https://www.twitter.com/_tom_codes" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
 </p>
 
