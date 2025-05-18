@@ -21,6 +21,7 @@ I'm currently working as Senior Data Engineer at EMIS Group with over 8 years ex
  [<img img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/soical/stackoverflow.svg" width="20" height="20">](https://www.stackoverflow.com/users/7031452/tom)&nbsp;
 [<img img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20">](https://www.twitter.com/_tom_codes)
 
+
 <br>
 <br>
 <h2 align="center"> 
@@ -95,4 +96,7 @@ I'm currently working as Senior Data Engineer at EMIS Group with over 8 years ex
 </a>
 </p>
 
+## Support My Work
+If you find these notebooks helpful, consider buying me a coffee:  
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tomfynes)
 
