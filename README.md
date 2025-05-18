@@ -97,6 +97,5 @@ I'm currently working as Senior Data Engineer at EMIS Group with over 8 years ex
 </p>
 
 ## Support My Work
-If you find these notebooks helpful, consider buying me a coffee:  
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tomfynes)
 
