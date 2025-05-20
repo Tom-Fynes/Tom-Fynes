@@ -20,6 +20,7 @@ I'm currently working as Senior Data Engineer at EMIS Group with over 8 years ex
 * 🔗  Other places you can find me: &nbsp; [<img img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/soical/linkedin.svg" width="20" height="20">](https://www.linkedin.com/in/thomas-f-b00607163/)&nbsp;
  [<img img src="https://github.com/Tom-Fynes/Tom-Fynes/blob/master/resources/soical/stackoverflow.svg" width="20" height="20">](https://www.stackoverflow.com/users/7031452/tom)&nbsp;
 [<img img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20">](https://www.twitter.com/_tom_codes)
+* 📚 Get my [Beginners data toolkit](https://tfynes.gumroad.com/l/phlyc)
 
 
 <br>
